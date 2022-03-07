@@ -302,10 +302,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 80px;
+  font-size: 55px;
   font-weight: 700;
   color: #202263;
-  line-height: 85px;
+  line-height: 74px;
 }
 #hero h2 {
   color: black;
